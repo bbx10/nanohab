@@ -53,6 +53,7 @@ Any ESP-12 based board should work. For example, NodeMCU devkit 1.0, wemos mini 
 * [u.FL connector](http://www.mouser.com/Search/ProductDetail.aspx?R=73412-0110virtualkey53810000virtualkey538-73412-0110)
 * [Antenna cable SMA](http://www.mouser.com/Search/ProductDetail.aspx?R=CAB.011virtualkey57580000virtualkey960-CAB011)
 * Project box, prototyping board, etc.
+* 5V 0.5A power supply. Higher current rating such as 1A is OK.
 
 ![Gateway Case](images/case_open.png)
 ![Gateway Board Top](images/board_top.png)
@@ -68,6 +69,7 @@ Any ESP-12 based board should work. For example, NodeMCU devkit 1.0, wemos mini 
 | ---------------------- | ---------------
 | [Adafruit RFM69HCW and RFM9X Tutorial](https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/overview) | How to hook up the RFM69HCW breakout boards.
 | [LowPowerLab](http://lowpowerlab.com/) | How to hook up the Moteinos
+| [ESP8266 Arduino](http://esp8266.github.io/Arduino/versions/2.3.0/) | ESP8266 Arduino Core Docs
 
 ## rfm69gw -- RFM69 to MQTT gateway
 
